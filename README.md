@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Supun M.A <img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" width="85"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate;BSc+(Hons)+in+Information+Technology+Specialising+in+Information+Technology;Web+Application+Developer;Laravel%20|%20Bootstrap%20;Graphic%20Designer;Video%20Editor;Always%20Learn%20New%20Things&center=true&width=700&height=60&font=Constantia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduated;BSc+(Hons)+in+Information+Technology+Specialising+in+Information+Technology;Web+Application+Developer;Laravel%20|%20Bootstrap%20;Graphic%20Designer;Video%20Editor;Always%20Learn%20New%20Things&center=true&width=700&height=60&font=Constantia"></a>
 </p>
 <hr colour="blue"/>
-<h4 align="center">I am reading BSc (Hons) in Information Technology Specialising in Information Technology. I like to Code, Design, Innovate and Experiment. I am an open-minded person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I completed BSc (Hons) in Information Technology Specialising in Information Technology. I like to Code, Design, Innovate and Experiment. I am an open-minded person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SupunMA&label=Supun MA's%20Profile%20Views%20&color=dc143c&style=plastic" alt="SupunMA" /> </p>
 
